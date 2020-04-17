@@ -12,4 +12,4 @@ This is the
 
 
 ### Synthetic Dataset 2
-<img src="./Synthetic_Dataset_1_Sample/dataset_1_example.png" width="960">
+<img src="./Synthetic_Dataset_1_Sample/dataset_2_example.png" width="960">
