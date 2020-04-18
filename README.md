@@ -18,10 +18,10 @@
 
 ## Dataset Usage
 
-- Download the complete dataset
+- Download the complete pure synthetic dataset. This is the starting point for readers to generate the sensor-realistic synthetic dataset targeted on their mobile devices
 
-- 
+- Model the color space and noise characteristics (sensor realism) of your targeted mobile device.
 
--
+- Apply the modeled sensor realism to pure synthetic dataset, converting the pure synthetic dataset into the sensor-realistic synthetic dataset.
 
 ## Citation
