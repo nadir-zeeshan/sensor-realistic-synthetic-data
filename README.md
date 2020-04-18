@@ -1,7 +1,7 @@
 # NTIRE '2O: Sensor-realistic Synthetic Data Engine for Multi-frame High Dynamic Range Photography
 
 ## Get Started
-- This repo examplifies several pure synthetic data we used in our work Sensor-realistic Synthetic Data Engine for Multi-frame High Dynamic Range Photography. Please refer to the paper for more details.
+- This repo examplifies several pure synthetic data we used in our work "Sensor-realistic Synthetic Data Engine for Multi-frame High Dynamic Range Photography, Jinhan Hu,, Gyeongmin Choe, Zeeshan Nadir, Osama Nabil, Seok-Jun Lee, Hamid Sheikh, Youngjun Yoo, and Michael Polley". Please refer to the paper for more details.
 
 - The complete dataset can be downloaded at
 
