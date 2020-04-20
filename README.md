@@ -42,4 +42,6 @@
   - Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.  NonCommercial — You may not use the material for commercial purposes.
   - To make use of the data, please site the paper "Sensor-realistic Synthetic Data Engine for Multi-frame High Dynamic Range Photography" appeared in NTIRE Workshop 2020: CVPR 2020.
 
-- Complete terms and conditions of the license can be found in the accompanied file "license_terms.pdf", also given at the url: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+- This work is licensed under the Creative Commons CC-BY-NC 4.0 License. Complete terms and conditions of the license can be found in the accompanied file "license_terms.pdf". To view a copy of the license, visit https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+- Copyright © 2020 Samsung Electronics Co., Ltd.
