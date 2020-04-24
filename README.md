@@ -7,7 +7,7 @@
 
 ## Synthetic Dataset Examples
 ### Synthetic Dataset 1
-- This synthetic dataset is captured at two exposure levels statically and dynamically (i.e., static_ and dynamic_ at EV-3 (low) and EV0 (high)). We use a proprietary algorithm to compute the Blendmap first and then use the exposure fusion algorithm to generate the HDR ground-truth for this dataset. We will make this dataset publicly available shortly.
+- This synthetic dataset is captured at two exposure levels statically and dynamically (i.e., static_ and dynamic_ at EV-3 (low) and EV0 (high)). We use a proprietary algorithm to compute the Blendmap first and then use the exposure fusion algorithm to generate the HDR ground-truth for this dataset.
 
 - Three examples below.
 
